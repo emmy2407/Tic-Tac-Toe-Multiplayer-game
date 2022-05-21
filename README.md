@@ -3,3 +3,5 @@
 Built with NodeJS ExpressJS SocketIO
 
 You need two users to play this game.
+
+v2 coming up
